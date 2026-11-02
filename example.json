@@ -1,0 +1,28 @@
+{
+  "spans": [
+    {
+      "id": "request",
+      "parent": null,
+      "start": 0,
+      "end": 15
+    },
+    {
+      "id": "db",
+      "parent": "request",
+      "start": 2,
+      "end": 9
+    },
+    {
+      "id": "cache",
+      "parent": "request",
+      "start": 6,
+      "end": 11
+    },
+    {
+      "id": "pending",
+      "parent": null,
+      "start": 20,
+      "end": null
+    }
+  ]
+}
